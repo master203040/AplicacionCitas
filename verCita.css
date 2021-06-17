@@ -17,6 +17,17 @@
     left: 80px;
     top: 100px;
     padding: 10px ;
+   
     
-    
+}
+
+h2{
+    padding-left: 16px;
+}
+
+.submit{
+    width: 120px;
+    height: 30px;
+    background-color: rgb(130, 181, 223);
+    border-radius: 50px;
 }
