@@ -1,0 +1,22 @@
+.body{
+    background-color: rgb(209, 202, 195);
+}
+
+.contenedor{
+    background-color: white;
+    width: 1218px;
+    height: 700px;
+    position: absolute;
+    bottom: 0px;
+    left: 380px;
+
+}
+
+.form{
+    position: absolute;
+    left: 80px;
+    top: 100px;
+    padding: 10px ;
+    
+    
+}
